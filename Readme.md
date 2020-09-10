@@ -4,7 +4,7 @@
 本仓库使用的zlib 版本：1.2.11  
 quazip 版本：0.7.3
 
-VS2017 + Qt5.12.6 编译
+VS2017 + Qt5.12.6 编译 (只有release版本哦)
 
 
 JlCompress::compressFile("压缩后文件的完整路径","将要被压缩文件的完整路径");  
