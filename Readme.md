@@ -2,7 +2,7 @@
 
 
 本仓库使用的zlib 版本：[1.2.11](http://www.zlib.net/zlib-1.2.11.tar.gz)  
-quazip 版本：0.7.3
+quazip 版本：[0.7.3](https://sourceforge.net/projects/quazip/)
 
 VS2017 + Qt5.12.6 编译 (只有release版本哦)
 
